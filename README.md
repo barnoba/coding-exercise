@@ -14,4 +14,7 @@ pip install -r requirements.txt
 ```sh
 python3 anagram_finder.py dictionary.txt
 ```
-
+### Run Tests
+```sh
+pytest tests
+```
