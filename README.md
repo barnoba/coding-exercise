@@ -8,7 +8,7 @@ git clone https://github.com/barnoba/coding-exercise.git
 ```
 2. Install libs
 ```sh
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 ### Run
 ```sh
